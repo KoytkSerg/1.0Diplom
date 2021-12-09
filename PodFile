@@ -1,0 +1,16 @@
+
+platform :ios, '14.4'
+use_frameworks!
+
+target 'DP1' do
+
+pod 'Alamofire'
+pod 'RealmSwift'
+  
+
+  
+
+end
+
+
+
